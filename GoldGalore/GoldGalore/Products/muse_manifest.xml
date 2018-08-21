@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="product1.com" resolutions="1x" timestamp="1515757394179">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="100616815" ref="index"/>
+    <file name="index.css" crc="471751729" ref="index"/>
+    <file name="iefonts_index.css" crc="3971638030" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1-crop-u245.jpg" crc="4133763354" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2-gold-jewellery-designs-for-wedding-2016-17-crop-u418.jpg" crc="4286525011" ref="index"/>
+    <file name="-887-crop-u438.jpg" crc="4042434972" ref="index"/>
+    <file name="1-crop-u236.jpg" crc="3986596466" ref="index"/>
+    <file name="2-gold-jewellery-designs-for-wedding-2016-17-crop-u424.jpg" crc="480092565" ref="index"/>
+    <file name="-887-crop-u444.jpg" crc="4009015530" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="72dbc2.jpg" crc="4001415318" ref="index"/>
+    <file name="facebook-logo.svg" crc="15706473" seo="true" ref="index"/>
+    <file name="facebook-logo_poster_.png" crc="363805319" ref="index"/>
+    <file name="twitter-logo-silhouette.svg" crc="314143322" seo="true" ref="index"/>
+    <file name="twitter-logo-silhouette_poster_.png" crc="4262794277" ref="index"/>
+    <file name="instagram-logo.svg" crc="4021494475" seo="true" ref="index"/>
+    <file name="instagram-logo_poster_.png" crc="355077236" ref="index"/>
+    <file name="linkedin-logo.svg" crc="172458923" seo="true" ref="index"/>
+    <file name="linkedin-logo_poster_.png" crc="43483188" ref="index"/>
+    <file name="google-plus.svg" crc="3830267051" seo="true" ref="index"/>
+    <file name="google-plus_poster_.png" crc="33899299" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3802425063" seo="true" mt="1515757354181" redirect="true"/>
+</manifest>

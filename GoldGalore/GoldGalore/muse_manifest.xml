@@ -1,0 +1,65 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="GoldGalore.com" resolutions="1x,2x" timestamp="1515351808424">
+  <folder name="css">
+    <file name="site_global.css" crc="4252429357"/>
+    <file name="master_a-master.css" crc="4033163099" ref="contact-us:about-us:index:our-design"/>
+    <file name="contact-us.css" crc="102788919" ref="contact-us"/>
+    <file name="about-us.css" crc="3892987885" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="343714810" ref="about-us"/>
+    <file name="index.css" crc="496593404" ref="index"/>
+    <file name="iefonts_index.css" crc="294611963" ref="index"/>
+    <file name="our-design.css" crc="400020062" ref="our-design"/>
+    <file name="iefonts_our-design.css" crc="4127370307" ref="our-design"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:our-design:contact-us"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-us:our-design:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:our-design:contact-us"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about-us:our-design:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about-us:our-design"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-us:our-design:contact-us"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:about-us:our-design:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="72dbc2.jpg" crc="4001415318" ref="index"/>
+    <file name="diamond-ring-it.jpg" crc="518991606" ref="index"/>
+    <file name="diamond-ring-it_2x.jpg" crc="359268222" ref="index"/>
+    <file name="facebook-logo.svg" crc="15706473" seo="true" ref="index:about-us:our-design:contact-us"/>
+    <file name="facebook-logo_poster_.png" crc="363805319" ref="index"/>
+    <file name="twitter-logo-silhouette.svg" crc="314143322" seo="true" ref="index:about-us:our-design:contact-us"/>
+    <file name="twitter-logo-silhouette_poster_.png" crc="4262794277" ref="index"/>
+    <file name="instagram-logo.svg" crc="4021494475" seo="true" ref="index:about-us:our-design:contact-us"/>
+    <file name="instagram-logo_poster_.png" crc="355077236" ref="index"/>
+    <file name="linkedin-logo.svg" crc="172458923" seo="true" ref="index:about-us:our-design:contact-us"/>
+    <file name="linkedin-logo_poster_.png" crc="43483188" ref="index"/>
+    <file name="google-plus.svg" crc="3830267051" seo="true" ref="index:about-us:our-design:contact-us"/>
+    <file name="google-plus_poster_.png" crc="33899299" ref="index"/>
+    <file name="bracelet.svg" crc="3936896110" seo="true" ref="about-us"/>
+    <file name="bracelet_poster_.png" crc="484811098" ref="about-us"/>
+    <file name="bracelet-(1).svg" crc="3950952790" seo="true" ref="about-us"/>
+    <file name="bracelet (1)_poster_.png" crc="385077557" ref="about-us"/>
+    <file name="earrings-(1).svg" crc="306861785" seo="true" ref="about-us"/>
+    <file name="earrings (1)_poster_.png" crc="4208800474" ref="about-us"/>
+    <file name="diamond-ring.svg" crc="3844291526" seo="true" ref="about-us"/>
+    <file name="diamond-ring_poster_.png" crc="308386946" ref="about-us"/>
+    <file name="385c1de76979416a2dd143f81ed2515d.jpg" crc="246956748" ref="about-us"/>
+    <file name="-887.jpg" crc="204146030" ref="our-design"/>
+    <file name="-887_2x.jpg" crc="460944740" ref="our-design"/>
+    <file name="1.jpg" crc="4097893056" ref="our-design"/>
+    <file name="1_2x.jpg" crc="3858285807" ref="our-design"/>
+    <file name="dazzling-gold-necklace-and-earrings-jewellery-2015-for-eid-9.jpg" crc="4112363561" ref="our-design"/>
+    <file name="img_3074_6257e118-9403-40ef-b099-b0883d4e889f.jpg" crc="500443317" ref="our-design"/>
+    <file name="img_3074_6257e118-9403-40ef-b099-b0883d4e889f_2x.jpg" crc="3895566916" ref="our-design"/>
+    <file name="unnamed.png" crc="66037414" ref="our-design"/>
+    <file name="indian-jewelry-2015--necklace-and-earring-designs-for-girls-by-kaneesha-1.jpg" crc="217363983" ref="our-design"/>
+    <file name="2-gold-jewellery-designs-for-wedding-2016-17.jpg" crc="4239038502" ref="our-design"/>
+    <file name="ladies-fashion-jewelry-8.jpg" crc="391417800" ref="our-design"/>
+  </folder>
+  <file name="index.html" crc="4149153233" seo="true" mt="1515351683010" redirect="true"/>
+  <file name="about-us.html" crc="237492579" seo="true" mt="1515351671722" redirect="true"/>
+  <file name="our-design.html" crc="81813586" seo="true" mt="1515351637170" redirect="true"/>
+  <file name="contact-us.html" crc="196267550" seo="true" mt="1515332026885" redirect="true"/>
+</manifest>
